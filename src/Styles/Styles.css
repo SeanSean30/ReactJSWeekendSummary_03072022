@@ -1,0 +1,63 @@
+div.card-body{
+    font-size: 20px;
+    font-style: Verdana;
+    color: lightgrey;
+    text-align: center;
+} 
+    .birthdayText{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+    .reviewText1{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+    .restText1{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+    .valorantText1{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+    .reviewText2{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+    .restText2{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+    .valorantText2{
+        font-style:italic;
+        font-size: 30px;
+        color: deepskyblue;
+        text-align: center;
+    }
+
+div.jumbotron.container{
+    font-size: 35px;
+    color:royalblue;
+    text-align: center;
+}
+    .lead{
+        color:royalblue;
+    }
+    .my-4{
+        font-style: bold;
+    }
+footer.pageFooter{
+    font-style: italic;
+}
