@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactJSWeekendSummary_03072022/static/css/main.023b3ced.css",
+    "main.js": "/ReactJSWeekendSummary_03072022/static/js/main.cf394c4e.js",
+    "static/js/787.4c071a89.chunk.js": "/ReactJSWeekendSummary_03072022/static/js/787.4c071a89.chunk.js",
+    "static/media/logo.svg": "/ReactJSWeekendSummary_03072022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactJSWeekendSummary_03072022/index.html",
+    "main.023b3ced.css.map": "/ReactJSWeekendSummary_03072022/static/css/main.023b3ced.css.map",
+    "main.cf394c4e.js.map": "/ReactJSWeekendSummary_03072022/static/js/main.cf394c4e.js.map",
+    "787.4c071a89.chunk.js.map": "/ReactJSWeekendSummary_03072022/static/js/787.4c071a89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023b3ced.css",
+    "static/js/main.cf394c4e.js"
+  ]
+}
