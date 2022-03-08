@@ -5,7 +5,6 @@ import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import Saturday from './Pages/Saturday';
 import Sunday from './Pages/Sunday'; 
-import './Styles/Styles.css';
 
 //router DOM
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
@@ -13,17 +12,16 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <>
-      
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
-          <Route path="/ReactJS" element={ <Navbar />}>
-          <Route index element={ <Homepage />}/>
-          {/* <Route path="/ReactJS" element={ <Homepage />}/> */}
-           <Route path="/ReactJS" element={ <Homepage />}/> 
-          <Route path="/ReactJS/Saturday" element={ <Saturday />}/>
-          <Route path="/ReactJS/Sunday" element={ <Sunday />}/>
+          <Route path="/" element={ <Navbar />}>
+          <Route path="/" element={ <Homepage />}/>
+          <Route path="Homepage" element={ <Homepage />}/>
+          <Route path="Saturday" element={ <Saturday />}/>
+          <Route path="Sunday" element={ <Sunday />}/>
           </Route>
         </Routes>
-       
+      </BrowserRouter> 
       <Footer />
     </>
   );

@@ -31,21 +31,21 @@ div.card-body{
     .reviewText2{
         font-style:italic;
         font-size: 30px;
-        color: deepskyblue;
+        color: black;
         text-align: center;
     }
     .restText2{
         font-style:italic;
         font-size: 30px;
-        color: deepskyblue;
+        color: black;
         text-align: center;
     }
     .valorantText2{
         font-style:italic;
         font-size: 30px;
-        color: deepskyblue;
+        color: black;
         text-align: center;
-    }
+    } 
 
 div.jumbotron.container{
     font-size: 35px;
@@ -58,6 +58,35 @@ div.jumbotron.container{
     .my-4{
         font-style: bold;
     }
+
+.carousel-inner {
+    max-width:65%;
+    max-height:65%;
+    margin-left:18%;
+    align-items: center;
+    align-content: center;
+}
+    .img{
+        max-width: 50%;
+        max-height: 50%;
+    }
+
+
+    
 footer.pageFooter{
     font-style: italic;
 }
+
+.card-header{
+    background-color: #b5c2b7;
+}
+
+.card-body{
+    background-color: #d2d4c8;
+}
+    .card-text{
+        font-style:italic;
+        font-size: 30px;
+        color: black;
+        text-align: center;
+    }

@@ -30,7 +30,7 @@ const Saturday = () => {
                     </div>
                     <div className="col">
                         <div className="card text-white bg-dark mb-3 border-light mb-3" style={{ width: "20rem" }}>
-                            <img className="card-img-top" src="https://cdn.dribbble.com/users/2446970/screenshots/5883361/birdeye_001a.gif" alt="Review1" />
+                            <img className="card-img-top" src="https://c.tenor.com/1kCRj5IpcGUAAAAC/read-eduwis.gif" alt="Review1" />
                             <div className="card-body">
                                 <h5 className="reviewText1">Review</h5>
                                 <p className="card-text">When I woke up from a nap, I started reviewing some notes from the past lessons and I also modified the last excersice Sir Jhun gave to us. I also tried experimenting on the past excersice that we made, and good thing, it turns out good.</p>

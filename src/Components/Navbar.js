@@ -12,17 +12,17 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         { <li className="nav-item">
-                            <Link to ="/ReactJS" className="nav-link" aria-current="page">
+                            <Link to ="/Homepage" className="nav-link" aria-current="page">
                                 Home
                             </Link>
                         </li> }
                         <li className="nav-item">
-                            <Link to ="/ReactJS/Saturday" className="nav-link" aria-current="page">
+                            <Link to ="/Saturday" className="nav-link" aria-current="page">
                                 Saturday
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link to ="/ReactJS/Sunday" className="nav-link" aria-current="page">
+                            <Link to ="/Sunday" className="nav-link" aria-current="page">
                                 Sunday
                             </Link>
                         </li>
